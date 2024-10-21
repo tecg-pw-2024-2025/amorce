@@ -10,12 +10,12 @@ L’amorce dispose d’un compte en banque. Elle accepte des versements d’arge
 
 Deux de ces fonds sont permanents :
 
-- le *fonds général* est une cagnotte qui sert à financer des projets soumis par des individues ou des associations ;
+- le *fonds général* est une cagnotte qui sert à financer des projets soumis par des individus ou des associations ;
 - le *fonds de fonctionnement* est destiné à permettre la couverture des frais de fonctionnement de l’amorce.
 
 Les autres fonds sont des *fonds spécifiques*. Ils sont destinés à jouer un peu un rôle de banque pour des personnes ou des organisations qui n’ont pas d’accès au système bancaire. Ces fonds spécifiques peuvent reverser un pourcentage de leurs rentrées au *fonds général*, en remerciement du service rendu.
 
-Êtant donné la diversité de moyens de versement et la multiplicité des fonds, il est important pour l’amorce de pouvoir disposer d’une vue unifiée sur les comptes. Pour le moment, cette vue est possible via des fichiers Excel, mais c’est assez malcommode à manipuler. Une application pourrait aider en proposant une vue sur un état du compte et des fonds, ainsi qu’une historicisation des mouvements. Naturellement, cette application devrait permettre l’encodage des mouvements, et pas seulement leur visualisation. L’encodage pourra se faire tant manuellement que via une procédure automatisée (ajout périodique des mouvements récupérés en CSV auprès de l’organisme bancaire).
+Étant donné la diversité de moyens de versement et la multiplicité des fonds, il est important pour l’amorce de pouvoir disposer d’une vue unifiée sur les comptes. Pour le moment, cette vue est possible via des fichiers Excel, mais c’est assez malcommode à manipuler. Une application pourrait aider en proposant une vue sur un état du compte et des fonds, ainsi qu’une historicisation des mouvements. Naturellement, cette application devrait permettre l’encodage des mouvements, et pas seulement leur visualisation. L’encodage pourra se faire tant manuellement que via une procédure automatisée (ajout périodique des mouvements récupérés en CSV auprès de l’organisme bancaire).
 
 ## La détente
 
